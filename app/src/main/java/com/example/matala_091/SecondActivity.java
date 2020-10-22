@@ -23,7 +23,6 @@ public class SecondActivity extends AppCompatActivity {
 
         getMenuInflater().inflate(R.menu.main, menu);
         menu.add("Black");
-
         return true;
     }
 
